@@ -1,7 +1,7 @@
 <div align="center">
  <p align="center">
-  <!-- Your name for the typing SVG below -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Rushikesh+Solanke;Full+Stack+Developer;+AI+%26+Data+Student+Engineer;2nd+Year+BTech;(AIDS);Open+Source+Contributor" alt="Typing SVG" /> 
+  <!-- Updated intro: name, degree, domain -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Rushi+Solanke;Fullstack+Developer+(Java);BE+Passout+2026;Open+Source+Contributor" alt="Typing SVG" /> 
 </p>
 </div>
 
@@ -14,16 +14,16 @@
     <img src="https://img.shields.io/badge/Instagram-%40rushi_solanke139-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/rushikesh-solanke-86ab9b325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rushikesh%20Solanke-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rushi%20Solanke-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:rushisolanke487@gmail.com">
-    <img src="https://img.shields.io/badge/Email-RushikeshSolanke-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-RushiSolanke-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>&nbsp;
   <a href="https://github.com/rushikeshsolanke" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Rushikeshsolanke-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>&nbsp;
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-RushikeshSolanke-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-RushiSolanke-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/>
   </a>
 </div>
 
@@ -31,9 +31,10 @@
 
 ## 🛠️ Tech Stack
 
-### 📊 Languages & Data Science
+### 💻 Programming Languages
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp" alt="Languages" /></a>
+  <!-- Java highlighted first -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" alt="Languages" /></a>
 </p>
 
 ### 🌐 Web Development
@@ -46,9 +47,11 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Web Dev Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
 </div>
 
 ### 🛠️ DevOps & Tools
@@ -78,7 +81,7 @@
 
 | Website | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| [My Portfolio](https://myportfolio-xi-wine.vercel.app/) | My personal developer portfolio showcasing skills, projects, and journey | React, Vite, Tailwind CSS | [Visit Site](https://myportfolio-xi-wine.vercel.app/) |
+| [My Portfolio](https://myportfolio-xi-wine.vercel.app/) | My personal developer portfolio showcasing skills, projects, and journey | React, Vite, Tailwind CSS, Java | [Visit Site](https://myportfolio-xi-wine.vercel.app/) |
 
 ---
 
@@ -86,4 +89,3 @@
 
 > "The most disastrous thing that you can ever learn is your first programming language."  
 > — Alan Kay
-
