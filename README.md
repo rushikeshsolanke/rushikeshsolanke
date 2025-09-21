@@ -24,6 +24,9 @@
   </a>&nbsp;
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-RushiSolanke-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/>
+  </a>&nbsp;
+  <a href="https://myportfolio-xi-wine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-RushiSolanke-FF69B4?logo=googlesites&logoColor=white&style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
 
