@@ -81,7 +81,7 @@
 
 | Website | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| [My Portfolio](https://myportfolio-xi-wine.vercel.app/) | My personal developer portfolio showcasing skills, projects, and journey | React, Vite, Tailwind CSS, Java | [Visit Site](https://myportfolio-xi-wine.vercel.app/) |
+| [My Portfolio](https://myportfolio-xi-wine.vercel.app/) | My personal developer portfolio showcasing skills, projects, and journey — [Visit Portfolio](https://myportfolio-xi-wine.vercel.app/) | React, Vite, Tailwind CSS, Java | [Visit Site](https://myportfolio-xi-wine.vercel.app/) |
 
 ---
 
