@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/HackerRank-RushiSolanke-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/>
   </a>&nbsp;
   <a href="https://portfoliors.vercel.app/" target="_blank">
-    <img src="https://rushisolanke-myportfolio.vercel.app" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-RushiSolanke-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
 
